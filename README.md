@@ -5,9 +5,9 @@ By Otuoma Tillen_
 ## Description
 This project consists of three JavaScript programs designed to perform various calculations:
 
-**Student Grade Calculator**: Calculates grades based on input marks.
-**Speed Limit Penalty Calculator**: Determines penalty points based on vehicle speed above the speed limit.
-**Net Salary Calculator**: Computes net salary after deductions based on basic salary and benefits.
+1. **Student Grade Calculator**: Calculates grades based on input marks.
+2. **Speed Limit Penalty Calculator**: Determines penalty points based on vehicle speed above the speed limit.
+3. **Net Salary Calculator**: Computes net salary after deductions based on basic salary and benefits.
 
 ## Installation
 No installation is required. Simply run each JavaScript file in a JavaScript environment or integrate them into a web application.
