@@ -32,7 +32,7 @@ function getInput() {
         marks = parseInt(marks);
 
         //validates user input
-        if (marks < 0 || marks > 100) {
+        if (isNaN(marks) || marks < 0 || marks > 100) {
             console.log('Please enter a number between 0 and 100.');
 
             getInput();//prompts for input if input is invalid
